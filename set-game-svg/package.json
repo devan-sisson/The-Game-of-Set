@@ -1,0 +1,15 @@
+{
+  "name": "set-game-svg",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "package used to generate the card assets for the game \"SET\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "devan-sisson",
+  "license": "ISC",
+  "dependencies": {
+    "svg-png-converter": "^0.0.9"
+  }
+}

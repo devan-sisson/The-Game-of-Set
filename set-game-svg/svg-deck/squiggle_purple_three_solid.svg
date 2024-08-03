@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Generator: Gravit.io -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  style="isolation:isolate" viewBox="0 0 168 100" width="160" height="108">
+  <defs>
+    <clipPath id="_clipPath_5ux3XuiJkuDN58yVcYo77o4NyU93ukBF">
+      <rect width="168" height="108" />
+    </clipPath>
+    <pattern id="striped-red" patternUnits="userSpaceOnUse" width="4" height="4">
+      <path d="M-1,1 H5" style="stroke:#e74c3c; stroke-width:1" />
+    </pattern>
+    <pattern id="striped-green" patternUnits="userSpaceOnUse" width="4" height="4">
+      <path d="M-1,1 H5" style="stroke:#27ae60; stroke-width:1" />
+    </pattern>
+    <pattern id="striped-purple" patternUnits="userSpaceOnUse" width="4" height="4">
+      <path d="M-1,1 H5" style="stroke:#8e44ad; stroke-width:1" />
+    </pattern>
+  </defs>
+  <g clip-path="url(#_clipPath_5ux3XuiJkuDN58yVcYo77o4NyU93ukBF)">
+    <path d=" M 148.15 62.925 C 148.15 79.025 159.15 82.825 158.75 91.225 C 158.25 100.425 137.65 103.425 125.35 95.025 C 113.05 86.625 109.55 73.825 116.05 57.025 C 119.75 49.525 120.95 43.025 120.85 37.025 C 120.85 20.925 109.85 17.125 110.25 8.725 C 110.75 -0.375 131.35 -3.475 143.65 5.025 C 155.95 13.525 159.45 26.225 152.95 43.025 C 150.15 50.125 148.25 56.925 148.15 62.925 Z " fill="#8e44ad"
+vector-effect="non-scaling-stroke" stroke-width="1" stroke="#8e44ad"
+stroke-opacity="100" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" /><path d=" M 97.65 62.925 C 97.65 79.025 108.65 82.825 108.25 91.225 C 107.75 100.425 87.15 103.425 74.85 95.025 C 62.55 86.625 59.05 73.825 65.55 57.025 C 69.25 49.525 70.45 43.025 70.35 37.025 C 70.35 20.925 59.35 17.125 59.75 8.725 C 60.25 -0.375 80.85 -3.475 93.15 5.025 C 105.45 13.525 108.95 26.225 102.45 43.025 C 99.65 50.125 97.75 56.925 97.65 62.925 Z " fill="#8e44ad"
+vector-effect="non-scaling-stroke" stroke-width="1" stroke="#8e44ad"
+stroke-opacity="100" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" /><path d=" M 47.15 62.925 C 47.15 79.025 58.15 82.825 57.75 91.225 C 57.25 100.425 36.65 103.425 24.35 95.025 C 12.05 86.625 8.55 73.825 15.05 57.025 C 18.75 49.525 19.95 43.025 19.85 37.025 C 19.85 20.925 8.85 17.125 9.25 8.725 C 9.75 -0.375 30.35 -3.475 42.65 5.025 C 54.95 13.525 58.45 26.225 51.95 43.025 C 49.15 50.125 47.25 56.925 47.15 62.925 Z " fill="#8e44ad"
+vector-effect="non-scaling-stroke" stroke-width="1" stroke="#8e44ad"
+stroke-opacity="100" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" />
+  </g>
+  </svg>
+  

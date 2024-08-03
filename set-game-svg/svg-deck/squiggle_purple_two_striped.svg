@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Generator: Gravit.io -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  style="isolation:isolate" viewBox="0 0 168 100" width="160" height="108">
+  <defs>
+    <clipPath id="_clipPath_5ux3XuiJkuDN58yVcYo77o4NyU93ukBF">
+      <rect width="168" height="108" />
+    </clipPath>
+    <pattern id="striped-red" patternUnits="userSpaceOnUse" width="4" height="4">
+      <path d="M-1,1 H5" style="stroke:#e74c3c; stroke-width:1" />
+    </pattern>
+    <pattern id="striped-green" patternUnits="userSpaceOnUse" width="4" height="4">
+      <path d="M-1,1 H5" style="stroke:#27ae60; stroke-width:1" />
+    </pattern>
+    <pattern id="striped-purple" patternUnits="userSpaceOnUse" width="4" height="4">
+      <path d="M-1,1 H5" style="stroke:#8e44ad; stroke-width:1" />
+    </pattern>
+  </defs>
+  <g clip-path="url(#_clipPath_5ux3XuiJkuDN58yVcYo77o4NyU93ukBF)">
+    <path d=" M 118.9 63.4 C 118.9 79.5 129.9 83.3 129.5 91.7 C 129 100.9 108.4 103.9 96.1 95.5 C 83.8 87.1 80.3 74.3 86.8 57.5 C 90.5 50 91.7 43.5 91.6 37.5 C 91.6 21.4 80.6 17.6 81 9.2 C 81.5 0.1 102.1 -3 114.4 5.5 C 126.7 14 130.2 26.7 123.7 43.5 C 120.9 50.6 119 57.4 118.9 63.4 Z " fill="url(#striped-purple)"
+vector-effect="non-scaling-stroke" stroke-width="1" stroke="#8e44ad"
+stroke-opacity="100" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" /><path d=" M 68.4 63.4 C 68.4 79.5 79.4 83.3 79 91.7 C 78.5 100.9 57.9 103.9 45.6 95.5 C 33.3 87.1 29.8 74.3 36.3 57.5 C 40 50 41.2 43.5 41.1 37.5 C 41.1 21.4 30.1 17.6 30.5 9.2 C 31 0.1 51.6 -3 63.9 5.5 C 76.2 14 79.7 26.7 73.2 43.5 C 70.4 50.6 68.5 57.4 68.4 63.4 Z " fill="url(#striped-purple)"
+vector-effect="non-scaling-stroke" stroke-width="1" stroke="#8e44ad"
+stroke-opacity="100" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" />
+  </g>
+  </svg>
+  

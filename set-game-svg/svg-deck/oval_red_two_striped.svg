@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Generator: Gravit.io -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  style="isolation:isolate" viewBox="0 0 168 100" width="160" height="108">
+  <defs>
+    <clipPath id="_clipPath_5ux3XuiJkuDN58yVcYo77o4NyU93ukBF">
+      <rect width="168" height="108" />
+    </clipPath>
+    <pattern id="striped-red" patternUnits="userSpaceOnUse" width="4" height="4">
+      <path d="M-1,1 H5" style="stroke:#e74c3c; stroke-width:1" />
+    </pattern>
+    <pattern id="striped-green" patternUnits="userSpaceOnUse" width="4" height="4">
+      <path d="M-1,1 H5" style="stroke:#27ae60; stroke-width:1" />
+    </pattern>
+    <pattern id="striped-purple" patternUnits="userSpaceOnUse" width="4" height="4">
+      <path d="M-1,1 H5" style="stroke:#8e44ad; stroke-width:1" />
+    </pattern>
+  </defs>
+  <g clip-path="url(#_clipPath_5ux3XuiJkuDN58yVcYo77o4NyU93ukBF)">
+    <path d=" M 104.25 99.5 C 93.45 99.5 84.75 90.8 84.75 80 L 84.75 20 C 84.75 9.2 93.45 0.5 104.25 0.5 C 115.05 0.5 123.75 9.2 123.75 20 L 123.75 80 C 123.75 90.8 115.05 99.5 104.25 99.5 Z " fill="url(#striped-red)"
+vector-effect="non-scaling-stroke" stroke-width="1" stroke="#e74c3c"
+stroke-opacity="100" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" /><path d=" M 55.75 99.5 C 44.95 99.5 36.25 90.8 36.25 80 L 36.25 20 C 36.25 9.2 44.95 0.5 55.75 0.5 C 66.55 0.5 75.25 9.2 75.25 20 L 75.25 80 C 75.25 90.8 66.55 99.5 55.75 99.5 Z " fill="url(#striped-red)"
+vector-effect="non-scaling-stroke" stroke-width="1" stroke="#e74c3c"
+stroke-opacity="100" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" />
+  </g>
+  </svg>
+  
