@@ -114,6 +114,4 @@ public class SetGui extends JFrame implements IGameView {
         selection.clear();
         JOptionPane.showMessageDialog(this, "You do not have a SET!");
     }
-
-
 }

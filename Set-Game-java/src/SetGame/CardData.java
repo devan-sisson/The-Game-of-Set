@@ -58,7 +58,6 @@ public class CardData {
 
     public String getFileIcon()
     {
-        //need to figure out how to use relative paths
         String code = String.format("assets/%s_%s_%s_%s.png", _shape, _color, _number, _fill);
         return code;
     }

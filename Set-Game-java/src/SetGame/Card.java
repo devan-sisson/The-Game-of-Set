@@ -19,10 +19,6 @@ public class Card extends JToggleButton {
     public void setCardData(CardData data)
     {
         _data = data;
-//        ImageIcon icon = new ImageIcon(data.getFileIcon());
-//        this.setSelectedIcon(icon);
-//        this.setIcon(icon);
-
         this.setIcon(new ImageIcon(data.getFileIcon()));
 
 		repaint();

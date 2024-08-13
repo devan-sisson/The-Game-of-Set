@@ -2,10 +2,6 @@ package SetGame;
 
 import java.util.*;
 
-
-
-
-
 public class GameState {
     final int CARD_TABLE = 12;
     final int SET_SIZE = 3;
@@ -56,7 +52,6 @@ public class GameState {
     }
     private boolean IsSet(ArrayList<CardData> selection)
     {
-//		selection.get(0).getFileCode();
         return ColorsOK(selection) && FillOK(selection) && ShapeOK(selection) && NumberOK(selection);
     }
 
